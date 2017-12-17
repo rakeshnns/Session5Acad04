@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+  background: whitesmoke;
+}
+div
+{
+    height: 30%;
+    width: 80%;
+    margin: auto;
+    padding-top: 5%;
+}
